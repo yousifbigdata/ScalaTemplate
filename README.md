@@ -1,0 +1,2 @@
+# ScalaTemplate
+Scala Code Repo
